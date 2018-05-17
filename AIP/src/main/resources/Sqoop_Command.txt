@@ -1,0 +1,4 @@
+SQOOP COMMAND
+sqoop export --connect jdbc:mysql://aipsandbxmysql1.cs317doxmhqu.us-east-1.rds.amazonaws.com/sandbxproject11 
+--username prj11usr2 --password '#pU3947320' --table dmh_provider_directory 
+--export-dir /user/prj11usr2/dmh_provider/part-00000 --input-fields-terminated-by "\t"
