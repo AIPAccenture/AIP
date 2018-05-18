@@ -3,7 +3,7 @@
  * This file is placed under :- src/main/java
  * The file contain key and value pair, we get the value by giving key
  */
-package com.hers.utility;
+package com.aip.utility;
 
 import java.io.InputStream;
 import java.util.Properties;
