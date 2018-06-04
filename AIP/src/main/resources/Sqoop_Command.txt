@@ -10,3 +10,9 @@ JOB for SURVEY_DATA
 sqoop export --connect jdbc:mysql://aipsandbxmysql1.cs317doxmhqu.us-east-1.rds.amazonaws.com/sandbxproject11 
 --username prj11usr2 --password '' --table survey_data 
 --export-dir /user/prj11usr2/survey/part-00000 --input-fields-terminated-by "\t"
+
+JOB for HOMELESS_DATA
+sqoop export --connect jdbc:mysql://aipsandbxmysql1.cs317doxmhqu.us-east-1.rds.amazonaws.com/sandbxproject11 --username prj11usr2 --password '#pU3947320' --table homeless_data --export-dir /user/prj11usr2/homeless/part-00000 --input-fields-terminated-by "\t"
+
+JOB for CRIME_DATA
+sqoop export --connect jdbc:mysql://aipsandbxmysql1.cs317doxmhqu.us-east-1.rds.amazonaws.com/sandbxproject11 --username prj11usr2 --password '#pU3947320' --table crime_data --export-dir /user/prj11usr2/crime_data/part-00000 --input-fields-terminated-by "\t"

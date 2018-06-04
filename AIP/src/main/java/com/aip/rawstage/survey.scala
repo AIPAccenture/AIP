@@ -44,14 +44,17 @@ object survey {
     
     
     //Paths for the source and destination files
+    val username = args(0).toLowerCase()
     val src_file = Property.getProperty("src_survey")
     val des_file = Property.getProperty("des_survey")
+    val access_key = Property.getProperty("s3a_access_key_"+username)
+    val secret_key = Property.getProperty("s3a_secret_key_"+username)
     
     //Loading the Survey file and writing the file to HDFS location
-    sc.hadoopConfiguration.set("fs.s3a.access.key", "");
-		sc.hadoopConfiguration.set("fs.s3a.secret.key", "");
+    sc.hadoopConfiguration.set("fs.s3a.access.key", access_key);
+		sc.hadoopConfiguration.set("fs.s3a.secret.key", secret_key);
 		val df = sqlContext.read.format("com.databricks.spark.csv").option("header", "true").option("inferSchema", "true").option("mode","DROPMALFORMED").load(src_file)
-		df.repartition(1).write.format("com.databricks.spark.csv").option("delimiter", "\t").option("header", "false").save(des_file)
+		df.repartition(1).write.format("com.databricks.spark.csv").option("delimiter", "\t").option("header", "false").save(des_file.replaceAll("~", username))
 
 
      

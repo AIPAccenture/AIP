@@ -41,15 +41,19 @@ object dmh_provider {
     import sqlContext.implicits._
     
     //Paths for the source and destination files
+    val username = args(0).toLowerCase()
     val src_file = Property.getProperty("src_dmh")
     val des_file = Property.getProperty("des_dmh")
+    val access_key = Property.getProperty("s3a_access_key_"+username)
+    val secret_key = Property.getProperty("s3a_secret_key_"+username)
+
 
     //Loading the DHM Provider file and writing the file to HDFS location
-    sc.hadoopConfiguration.set("fs.s3a.access.key", "")
-    sc.hadoopConfiguration.set("fs.s3a.secret.key", "")
+    sc.hadoopConfiguration.set("fs.s3a.access.key", access_key)
+    sc.hadoopConfiguration.set("fs.s3a.secret.key", secret_key)
     val df1 = sqlContext.read.format("com.databricks.spark.csv").option("header", "true").option("inferSchema", "true").option("delimiter", ",").option("escape", "\\").option("parserLib", "univocity").option("mode", "DROPMALFORMED").load(src_file)
     val df2 = df1.withColumn("Location 1", regexp_replace(col("Location 1"), "[\\r\\n]", " "))
-    df2.repartition(1).write.format("com.databricks.spark.csv").option("delimiter", "\t").option("header", "false").save(des_file)
+    df2.repartition(1).write.format("com.databricks.spark.csv").option("delimiter", "\t").option("header", "false").save(des_file.replaceAll("~", username))
 
   }
 
