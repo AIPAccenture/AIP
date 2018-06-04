@@ -1,0 +1,336 @@
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@dcf3e99 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@dcf3e99 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 121 items
+Table Merging algorithm being applied 121 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@2f410acf 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@2f410acf 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 12 items
+Table Merging algorithm being applied 12 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@47089e5f 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@47089e5f 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 16 items
+Table Merging algorithm being applied 16 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@4141d797 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@4141d797 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 6 items
+Table Merging algorithm being applied 6 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@68f7aae2 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@68f7aae2 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 22 items
+Table Merging algorithm being applied 22 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@4f47d241 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@4f47d241 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 11 items
+Table Merging algorithm being applied 11 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@4c3e4790 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@4c3e4790 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 20 items
+Table Merging algorithm being applied 20 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@38cccef 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@38cccef 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 15 items
+Table Merging algorithm being applied 15 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@5679c6c6 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@5679c6c6 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 15 items
+Table Merging algorithm being applied 15 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@27ddd392 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@27ddd392 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 20 items
+Table Merging algorithm being applied 20 items
+Jun 4, 2018 5:31 PM Verbose on
+Verbose on
+Jun 4, 2018 5:31 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 5:31 PM Software started - Jun 4, 2018 5:31 PM
+Software started - Jun 4, 2018 5:31 PM
+Jun 4, 2018 5:31 PM =======================================================
+=======================================================
+Jun 4, 2018 5:31 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 5:31 PM Pages being read from org.jpedal.objects.raw.PageObject@19e1023e 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@19e1023e 294 0 R
+Jun 4, 2018 5:31 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 5:31 PM Table Merging algorithm being applied 10 items
+Table Merging algorithm being applied 10 items
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@dcf3e99 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@dcf3e99 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 121 items
+Table Merging algorithm being applied 121 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@5f8ed237 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@5f8ed237 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 12 items
+Table Merging algorithm being applied 12 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@2f410acf 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@2f410acf 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 16 items
+Table Merging algorithm being applied 16 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@47089e5f 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@47089e5f 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 6 items
+Table Merging algorithm being applied 6 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@4141d797 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@4141d797 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 22 items
+Table Merging algorithm being applied 22 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@68f7aae2 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@68f7aae2 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 11 items
+Table Merging algorithm being applied 11 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@4f47d241 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@4f47d241 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 20 items
+Table Merging algorithm being applied 20 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@4c3e4790 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@4c3e4790 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 15 items
+Table Merging algorithm being applied 15 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@38cccef 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@38cccef 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 15 items
+Table Merging algorithm being applied 15 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@5679c6c6 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@5679c6c6 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 20 items
+Table Merging algorithm being applied 20 items
+Jun 4, 2018 6:19 PM Verbose on
+Verbose on
+Jun 4, 2018 6:19 PM Software version - 4.74b27-OS
+Software version - 4.74b27-OS
+Jun 4, 2018 6:19 PM Software started - Jun 4, 2018 6:19 PM
+Software started - Jun 4, 2018 6:19 PM
+Jun 4, 2018 6:19 PM =======================================================
+=======================================================
+Jun 4, 2018 6:19 PM Pdf version : 1.5
+Pdf version : 1.5
+Jun 4, 2018 6:19 PM Pages being read from org.jpedal.objects.raw.PageObject@27ddd392 294 0 R
+Pages being read from org.jpedal.objects.raw.PageObject@27ddd392 294 0 R
+Jun 4, 2018 6:19 PM extracting Text As Table
+extracting Text As Table
+Jun 4, 2018 6:19 PM Table Merging algorithm being applied 10 items
+Table Merging algorithm being applied 10 items

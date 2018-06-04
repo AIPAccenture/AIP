@@ -78,16 +78,18 @@ public class ExtractTextInRectangleAsTable {
     private static final String testFile = "county.pdf";
 
     private static String outfile = "";
+    private static String outDir = "";
     /**example method to open a file and extract the raw text
      *
      * @param file_name A String value of the file to search
      */
-    public ExtractTextInRectangleAsTable(String file_name, String outputFileName, int x1, int y1, int x2, int y2) {
+    public ExtractTextInRectangleAsTable(String file_name, String outdir, String outputFileName, int x1, int y1, int x2, int y2) {
     	defX1=x1;
     	defY1=y1;
     	defX2=x2;
     	defY2=y2;
-    	outfile=outputFileName;
+    	outfile = outputFileName;
+    	outDir = outdir;
 //    get any user set dpi
         final String xmlFlag=System.getProperty("xml");
         if(xmlFlag!=null){
@@ -170,7 +172,7 @@ public class ExtractTextInRectangleAsTable {
         /**get just the name of the file without
          * the path to use as a sub-directory or .pdf
          */
-        String name = "demo"; //set a default just in case
+        String name = outDir; //set a default just in case
 
         final int pointer = file_name.lastIndexOf(separator);
 
